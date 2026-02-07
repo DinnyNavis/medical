@@ -351,7 +351,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Dinesh Paul Navis**
+**Dinny Paul Navis**
 - GitHub: [@DinnyNavis](https://github.com/DinnyNavis)
 - Repository: [medical](https://github.com/DinnyNavis/medical)
 
